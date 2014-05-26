@@ -1,0 +1,8 @@
+
+# BEGIN WordPress
+
+# END WordPress
+AuthType Basic
+AuthName "www"
+AuthUserFile "/home/exceptfa/.htpasswds/public_html/passwd"
+require valid-user
